@@ -164,4 +164,4 @@ function playSong(guild, song) {
 }
 
 // ⚠️ HIER DEIN TOKEN EINFÜGEN
-client.login("MTM3NTQ4Njc2NjEwMjA4NTcyMg.GwI1Ik.IjXTXsRORCQkfz-JzBXuHK0QtKiUO1CqBmNzRQ");
+client.login("MTM3NTQ4Njc2NjEwMjA4NTcyMg.GFwr08.QXd3ytK3vij_dVBeHjI2S_bviSME8nLqmTmXxw");
